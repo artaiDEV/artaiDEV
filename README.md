@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @artaiDEV
 - 👀 I’m interested in software development, AI & robotics
-- 🌱 I’m currently learning python and some frameworks
-    - Flet for frontend
-    - Pandas for data
-    - MongoDB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python and some frameworks and libraries like Flet, Pandas. Also,I'm loocking for courses to learn a non relational database like MongoDB
 
 <!---
 artaiDEV/artaiDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
